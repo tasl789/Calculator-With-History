@@ -23,7 +23,7 @@ It allows users to perform basic arithmetic operations and keeps a record of pre
 
 <h2>Purpose</h2>
 <p>
-This project was created to practice <strong>HTML fundamentals</strong> and understand
+This project was created to practice <strong>HTML fundamentals</strong> and understand 
 how a calculator interface works with structured layout and user interaction.
 </p>
 
